@@ -1,3 +1,9 @@
+# Deprecated Project
+
+This project is replaced by [OJP Demo App](https://opentdatach.github.io/ojp-demo-app/)
+
+----
+
 # OJP Demo WebApp
 
 ## Demo
